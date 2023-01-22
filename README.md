@@ -159,6 +159,5 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Micheal Oriyomi - [Github](https://github.com/Smartmike100) / [Twitter](https://twitter.com/ORIYOMIMICHEAL)  
 Chijioke Madubuko - [Github](https://github.com/webizone) / [Twitter]()  
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
