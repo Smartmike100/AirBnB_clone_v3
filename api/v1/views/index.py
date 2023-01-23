@@ -1,29 +1,20 @@
 #!/usr/bin/python3
-"""API index views module"""
-from models.amenity import Amenity
-from models.city import City
-from models.place import Place
-from models.review import Review
-from models.state import State
-from models.user import User
-from models import storage
+"""
+Flask route that returns json status response
+"""
 from api.v1.views import app_views
-from models import storage
 from flask import jsonify, request
+from models import storage
 
 
-@app_views.route('/status')
+@app_views.route('/status', methods=['GET'])
 def status():
     """
-    Returns json response as the status
-
-    Returns:
-        JSON: json object
+    function for status route that returns the status
     """
-    status = {
-        "status": "OK"
-    }
-    return jsonify(status)
+    if request.method == 'GET':
+        resp = {"status": "OK"}
+        return jsonify(resp)
 
 
 @app_views.route('/stats', methods=['GET'])
