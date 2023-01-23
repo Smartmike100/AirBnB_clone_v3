@@ -157,7 +157,7 @@ No known bugs at this time.
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)  
 Micheal Oriyomi - [Github](https://github.com/Smartmike100) / [Twitter](https://twitter.com/ORIYOMIMICHEAL)  
-Chijioke Madubuko - [Github](https://github.com/webizone) / [Twitter]()  
+Chijioke Madubuko - [Github](https://github.com/webizone) / [Twitter](https://twitter.com/CjMk59853150)  
 
 ## License
 Public Domain. No copy write protection. 
